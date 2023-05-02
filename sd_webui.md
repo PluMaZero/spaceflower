@@ -21,3 +21,10 @@ cudnn/v8.7.0 연산속도 향상 cuDNN(CUDA Deep Nural Network Library)
 ```
 https://developer.download.nvidia.com/compute/redist/cudnn/v8.7.0/local_installers/11.8/
 ```
+
+mov2mov
+```
+https://github.com/Scholar01/sd-webui-mov2mov.git
+```
+video util
+https://github.com/ninjaneural/sd-webui-video-util.git
