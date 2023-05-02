@@ -15,3 +15,8 @@ https://civitai.com/
 ```
 https://huggingface.co/
 ```
+
+cudnn/v8.7.0 연산속도 향상 cuDNN(CUDA Deep Nural Network Library)
+```
+https://developer.download.nvidia.com/compute/redist/cudnn/v8.7.0/local_installers/11.8/
+```
