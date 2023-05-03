@@ -16,6 +16,11 @@ https://civitai.com/
 https://huggingface.co/
 ```
 
+Control-net 모델
+```
+https://huggingface.co/lllyasviel/ControlNet-v1-1/tree/main
+```
+
 cudnn/v8.7.0 연산속도 향상 cuDNN(CUDA Deep Nural Network Library)
 덮어쓰기 위치 d:\sd_webui\venv\Lib\site-packages\torch\lib
 ```
